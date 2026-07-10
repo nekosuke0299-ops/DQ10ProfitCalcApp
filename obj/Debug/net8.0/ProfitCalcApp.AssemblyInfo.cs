@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProfitCalcApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6357ccdbe98f6a6fbe2fe31a264de5cc63271d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b48683f5cf3e39dd147289fea94b5e904693c3c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProfitCalcApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProfitCalcApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
