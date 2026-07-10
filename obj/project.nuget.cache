@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WasHtk1vj08=",
+  "dgSpecHash": "HbXClqJp3F0=",
   "success": true,
-  "projectFilePath": "C:\\programming\\DQ10\\ProfitCalcApp\\ProfitCalcApp.csproj",
+  "projectFilePath": "C:\\programming\\DQ10\\ProfitCalcApp\\DQ10ProfitCalcApp\\ProfitCalcApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nekos\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\nekos\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

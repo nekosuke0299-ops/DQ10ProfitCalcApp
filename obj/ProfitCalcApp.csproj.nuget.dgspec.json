@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\programming\\DQ10\\ProfitCalcApp\\ProfitCalcApp.csproj": {}
+    "C:\\programming\\DQ10\\ProfitCalcApp\\DQ10ProfitCalcApp\\ProfitCalcApp.csproj": {}
   },
   "projects": {
-    "C:\\programming\\DQ10\\ProfitCalcApp\\ProfitCalcApp.csproj": {
+    "C:\\programming\\DQ10\\ProfitCalcApp\\DQ10ProfitCalcApp\\ProfitCalcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\programming\\DQ10\\ProfitCalcApp\\ProfitCalcApp.csproj",
+        "projectUniqueName": "C:\\programming\\DQ10\\ProfitCalcApp\\DQ10ProfitCalcApp\\ProfitCalcApp.csproj",
         "projectName": "ProfitCalcApp",
-        "projectPath": "C:\\programming\\DQ10\\ProfitCalcApp\\ProfitCalcApp.csproj",
+        "projectPath": "C:\\programming\\DQ10\\ProfitCalcApp\\DQ10ProfitCalcApp\\ProfitCalcApp.csproj",
         "packagesPath": "C:\\Users\\nekos\\.nuget\\packages\\",
-        "outputPath": "C:\\programming\\DQ10\\ProfitCalcApp\\obj\\",
+        "outputPath": "C:\\programming\\DQ10\\ProfitCalcApp\\DQ10ProfitCalcApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nekos\\AppData\\Roaming\\NuGet\\NuGet.Config"
